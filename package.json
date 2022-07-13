@@ -1,5 +1,5 @@
 {
-  "name": "academia2022-day2",
+  "name": "academia2022-day3",
   "version": "1.0.0",
   "description": "",
   "keywords": [],
@@ -8,6 +8,7 @@
     "bootstrap": "5.1.3",
     "react": "18.0.0",
     "react-dom": "18.0.0",
+    "react-router-dom": "6.3.0",
     "react-scripts": "4.0.0",
     "reactstrap": "9.1.1"
   },

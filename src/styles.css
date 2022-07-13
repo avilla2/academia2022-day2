@@ -3,13 +3,6 @@
   text-align: center;
 }
 
-.logo {
-  margin-top: 70px;
-  width: 90%;
-  max-width: 400px;
-}
-
-.cover {
-  width: 90%;
-  margin-bottom: 70px;
+.body {
+  margin-top: 65px;
 }
